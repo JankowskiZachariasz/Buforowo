@@ -1,0 +1,15 @@
+
+.window{
+       
+
+        background-color: white;
+        position: fixed;
+        width: 500px;
+        height: 300px;
+        top: 30%;
+        left: 50%;
+        margin-top: -100px; /* Negative half of height. */
+        margin-left: -250px; /* Negative half of width. */
+        box-shadow: 0 8px 6px -6px #ABA8A8;
+        padding:40px;
+}

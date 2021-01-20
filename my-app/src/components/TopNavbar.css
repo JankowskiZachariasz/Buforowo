@@ -1,0 +1,72 @@
+.navbar{
+    font-family: 'Alef', sans-serif;
+    font-size: 19px;
+    background-color: #060505;
+    margin: 0px;
+    padding: 13px;
+    padding-left: 30px;
+    padding-right: 30px;
+ 
+    
+    display: grid;
+    grid-template-columns: 50% 50%;
+    align-items: center;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    box-shadow: 0 8px 6px -3px #ABA8A8;
+    
+}
+
+.logoPicture{
+    padding-top: 2px;
+}
+
+.textLogo{
+    /* padding-top: 4px; */
+    padding-left: 9px;
+  display: flex;
+  flex-wrap: wrap;
+  align-content: center;
+
+}
+
+
+.LogoText{
+    margin: 0px;
+    
+    vertical-align: baseline;
+    color: #ABA8A8;
+    cursor: pointer;
+    align-content: center;
+    display: flex;
+
+}
+
+.App-logo{
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+  flex-wrap: wrap;
+  align-content: center;
+
+}
+
+.loginStatus{
+    margin-left: auto;
+    color: #ABA8A8;
+    display: inline-block;
+    /* margin-top: 4px; */
+}
+
+.arrow{
+    display: inline-block;
+    padding-left: 4px;
+    padding-bottom: 4px;
+}
+.surname{
+    display: inline-block;
+}

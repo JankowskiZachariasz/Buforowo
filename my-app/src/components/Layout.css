@@ -1,0 +1,13 @@
+.layout{
+    padding-left: 25px;
+    padding-right: 10px;
+
+    display:grid;
+    grid-template-columns: 300px 2fr 1fr;
+    grid-template-rows: 1frr 1fr;
+    grid-template-areas: 
+    "sidebar okno1 okno2"
+    "sidebar okno3 okno3";
+  justify-content: stretch
+
+}
